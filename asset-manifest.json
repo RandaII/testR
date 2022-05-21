@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.213e7b4a.css",
+    "main.js": "/static/js/main.b487fcbc.js",
+    "static/media/kit-fit.jpg": "/static/media/kit-fit.318401236a8ef5d974d3.jpg",
+    "static/media/playrix.jpg": "/static/media/playrix.06ea88b6838f96c2bab8.jpg",
+    "static/media/lnFamily.jpg": "/static/media/lnFamily.e686d76423a211ba4e8f.jpg",
+    "static/media/shooting.jpg": "/static/media/shooting.16b94d587593c71bc10e.jpg",
+    "static/media/theater1.jpg": "/static/media/theater1.e22c7508b8b7dd376284.jpg",
+    "static/media/theater.jpg": "/static/media/theater.33bed429594055896b43.jpg",
+    "static/media/CeraPro-Regular.woff": "/static/media/CeraPro-Regular.c7da3a40565f40d48ea7.woff",
+    "static/media/CeraPro-Medium.woff": "/static/media/CeraPro-Medium.fda916faed811db91924.woff",
+    "static/media/CeraPro-Regular.woff2": "/static/media/CeraPro-Regular.98174a78a68fda76bc80.woff2",
+    "static/media/CeraPro-Medium.woff2": "/static/media/CeraPro-Medium.971142b272d995391f9f.woff2",
+    "static/media/Formular.woff": "/static/media/Formular.254f9c824c206145dfc1.woff",
+    "static/media/Formular-Medium.woff": "/static/media/Formular-Medium.7637d0b07e080a200327.woff",
+    "static/media/Formular-Light.woff": "/static/media/Formular-Light.40042297f1cebc2995f1.woff",
+    "static/media/Formular.woff2": "/static/media/Formular.8e0d9e35afc128570c17.woff2",
+    "static/media/Formular-Medium.woff2": "/static/media/Formular-Medium.24b26c423f21f3f41e1a.woff2",
+    "static/media/Formular-Light.woff2": "/static/media/Formular-Light.91907b54587b01cd3e56.woff2",
+    "static/media/award1.svg": "/static/media/award1.ad5a9ef2372d4db8e968bba82890066a.svg",
+    "static/media/award4.svg": "/static/media/award4.b54faa0fe3720715a80d717dc3b28b8e.svg",
+    "index.html": "/index.html",
+    "static/media/clip.svg": "/static/media/clip.5c4eb9e0ac41920c0c57128807994f83.svg",
+    "static/media/award2.svg": "/static/media/award2.edc2d68f833a0046058c188da7dc9589.svg",
+    "static/media/award3.svg": "/static/media/award3.05e7cf54c158311fae50d1d95d40703b.svg",
+    "static/media/logo.svg": "/static/media/logo.bd7a7d0fbd6b79fec075b3e4f06baafa.svg",
+    "static/media/close.svg": "/static/media/close.2e3ef9787e243b487ce5.svg",
+    "static/media/burger.svg": "/static/media/burger.c64995088872bcd9ee4a.svg",
+    "main.213e7b4a.css.map": "/static/css/main.213e7b4a.css.map",
+    "main.b487fcbc.js.map": "/static/js/main.b487fcbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.213e7b4a.css",
+    "static/js/main.b487fcbc.js"
+  ]
+}
